@@ -1,2 +1,2 @@
 # freeCodeCamp-Tribute-Page
- First project of responsive web design on fcc
+ First project for the Responsive Web Design certification from freeCodeCamp
