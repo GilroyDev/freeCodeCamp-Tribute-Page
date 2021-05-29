@@ -1,0 +1,31 @@
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img-caption {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tribute-info {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#image {
+    max-width: 500px;
+    display: block;
+  }
+  
+  #img-caption {
+    font-size: 30px;
+  }
+
+  #tribute-link {
+    font-size: 20px;
+  }
+
+  .center {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+  }
